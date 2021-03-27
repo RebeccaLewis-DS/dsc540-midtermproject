@@ -3,3 +3,12 @@
 
 The objective of this project is to select a dataset, perform various cleansing methods using Python to the dataset and submit your newly formatted readable dataset.
 
+### Contents
+
+
+### Requirements
+
+
+### Usage
+*Need to unzip the data using 7 zip - provide link
+
