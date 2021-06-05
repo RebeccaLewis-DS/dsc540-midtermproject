@@ -4,8 +4,8 @@
 The objective of this project is to select a dataset, perform various cleansing methods using Python to the dataset and submit your newly formatted readable dataset.
 
 ### Contents
-Data Files - data.7z
-Code - LewisRebecca_Midterm.py
+Data Files - data.7z  
+Code - LewisRebecca_Midterm.py  
 Report - LewisRebecca_Mid-Term_Summary.doc
 
 
